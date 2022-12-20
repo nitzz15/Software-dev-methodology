@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 second file  simultaneus dev 2
 
+=======
+second file new dev 1
+>>>>>>> df9f5d86eaf252491e8bfd3f7ea130c3a7edbc6a
 dev 2
